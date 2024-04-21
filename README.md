@@ -1,2 +1,2 @@
-# support-bot
-A simple bot to get feedback from clients in Telegram
+# Simple support bot
+A simple bot for customer feedback and support in Telegram
